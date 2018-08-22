@@ -40,3 +40,6 @@ $ cd vuestate
 $ npm run serve
 ```
 
+t=9:30
+
+t=20:34
